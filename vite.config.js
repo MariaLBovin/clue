@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/fed22d-js-grundkurs-2-cluedo-MariaLBovin/',
+  base: '/clue/',
   define: {
     'process.env': {},
   },
